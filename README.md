@@ -21,7 +21,7 @@ fmt.Printf("%+v\n", resp)
 
 ### Google API style packge
 
-All off the APIs in this packgeresemble that of google.golang.org/api.
+All off the APIs in this package resemble that of google.golang.org/api.
 
 ### Full support for context.Context
 
